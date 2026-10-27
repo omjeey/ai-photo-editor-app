@@ -233,4 +233,4 @@ The app runs on almost anything, but the experience varies a lot.
 
 ---
 
-*ai-photo-editor-app · Updated 2026-10-26 · Shared under the MIT License*
+*ai-photo-editor-app · Updated 2026-10-27 · Shared under the MIT License*
