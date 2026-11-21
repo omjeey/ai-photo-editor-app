@@ -233,6 +233,6 @@ The app runs on almost anything, but the experience varies a lot.
 
 ---
 
-*ai-photo-editor-app · Updated 2026-11-20 · Shared under the MIT License*
+*ai-photo-editor-app · Updated 2026-11-21 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-20 -->
+<!-- last reviewed 2026-11-21 -->
